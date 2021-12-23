@@ -1,37 +1,36 @@
-## Welcome to GitHub Pages
+*Site on Construction!*
 
-You can use the [editor on GitHub](https://github.com/pfafner/ia2022/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+# Inteligencia Artificial 2022
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Este es un curso introductorio a la inteligencia artificial.
 
-### Markdown
+# Programa del curso
+<div id='id-programa'/>
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+[Programa del curso](programa/Programa-ia2022.pdf){:target="_blank"}
 
-```markdown
-Syntax highlighted code block
+### Horario
+<div id='id-horario'/>
 
-# Header 1
-## Header 2
-### Header 3
+* Martes y jueves, de 19:50 a 21:30 horas.
 
-- Bulleted
-- List
+### Office Hours
+<div id='id-office'/>
 
-1. Numbered
-2. List
+* Viernes de 18:00 a 20:00 horas, o por solicitud del estudiante. También pueden enviar sus dudas por correo electrónico.
 
-**Bold** and _Italic_ and `Code` text
 
-[Link](url) and ![Image](src)
-```
+# Material del curso
+<div id='id-material'/>
 
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
+  **No.**  | **Fecha**    | **Tópicos**                                                                    | **Actividades**/
+  -------- | ------------ | ------------------------------------------------------------------------------ |  -------------------------------------
+  01       | 11.01.2022   | Introducción <br/> 
+  
+  
+# Referencias
+<div id='id-ref'/>
 
-### Jekyll Themes
+### Textos:
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/pfafner/ia2022/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+---
