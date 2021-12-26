@@ -33,4 +33,6 @@ Este es un curso introductorio a la inteligencia artificial.
 
 ### Textos:
 
+References will be added soon.
+
 ---
