@@ -23,7 +23,7 @@ Este es un curso introductorio a la inteligencia artificial.
 # Material del curso
 <div id='id-material'/>
 
-  **No.**  | **Fecha**    | **Tópicos**                                                                    | **Actividades**/
+  **No.**  | **Fecha**    | **Tópicos**                                                                    | **Actividades**
   -------- | ------------ | ------------------------------------------------------------------------------ |  -------------------------------------
   01       | 11.01.2022   | Introducción <br/> 
   
