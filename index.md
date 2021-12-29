@@ -41,6 +41,8 @@ Este es un curso introductorio a la inteligencia artificial.
 
 * [Muestreo de Gibbs.](){:target="_blank"}
 
+* [Optimización Combinatoria: GA, DE.](){:target="_blank"}
+
 
 * [](){:target="_blank"}
 
