@@ -33,7 +33,7 @@ Este es un curso introductorio a la inteligencia artificial.
 
 ### Textos:
 
-* [](){:target="_blank"}
+* [S. Russell yP. Norvig (2021). *Artificial Intelligence: A Modern Approach*](){:target="_blank"}
 
 * [](){:target="_blank"}
 
