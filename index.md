@@ -35,6 +35,9 @@ Este es un curso introductorio a la inteligencia artificial.
 
 * [S. Russell yP. Norvig (2021). *Artificial Intelligence: A Modern Approach*](http://library.lol/main/9B28FC2A4A9B21237063BC7E6B42DEFD){:target="_blank"}
 
+* [Redes Bayesianas.](){:target="_blank"}
+
+
 * [](){:target="_blank"}
 
 More references will be added soon.
