@@ -39,6 +39,8 @@ Este es un curso introductorio a la inteligencia artificial.
 
 * [Redes Bayesianas.](){:target="_blank"}
 
+* [Muestreo de Gibbs.](){:target="_blank"}
+
 
 * [](){:target="_blank"}
 
