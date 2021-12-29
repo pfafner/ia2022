@@ -33,7 +33,9 @@ Este es un curso introductorio a la inteligencia artificial.
 
 ### Textos:
 
-* [S. Russell yP. Norvig (2021). *Artificial Intelligence: A Modern Approach*](http://library.lol/main/9B28FC2A4A9B21237063BC7E6B42DEFD){:target="_blank"}
+* [S. Russell y P. Norvig (2021). *Artificial Intelligence: A Modern Approach*.](http://library.lol/main/9B28FC2A4A9B21237063BC7E6B42DEFD){:target="_blank"}
+
+* [W. Ertel (2017). *Introduction to Artificial Intelligence*.](http://library.lol/main/3FA154D019C435DA970C2F19999889A8){:target="_blank"}
 
 ### Otras Referencias:
 
