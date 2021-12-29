@@ -43,6 +43,7 @@ Este es un curso introductorio a la inteligencia artificial.
 
 * [Optimización Combinatoria: GA, DE.](){:target="_blank"}
 
+* [Machine Learning.](){:target="_blank"}
 
 * [](){:target="_blank"}
 
