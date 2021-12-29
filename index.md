@@ -45,7 +45,9 @@ Este es un curso introductorio a la inteligencia artificial.
 
 * [Machine Learning.](){:target="_blank"}
 
-* [](){:target="_blank"}
+* [CV.](){:target="_blank"}
+
+* [NLP.](){:target="_blank"}
 
 More references will be added soon.
 
