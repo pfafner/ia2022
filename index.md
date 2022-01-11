@@ -28,7 +28,7 @@ El curso requiere madurez por parte del estudiante, pues se integran contenidos 
 
   **No.**  | **Fecha**    | **Tópicos**                                                                    | **Actividades**
   -------- | ------------ | ------------------------------------------------------------------------------ |  -------------------------------------
-  01       | 11.01.2022   | Introducción <br/> 
+  01       | 13.01.2022   | Introducción <br/> 
   
   
 # Referencias
@@ -38,30 +38,30 @@ El curso requiere madurez por parte del estudiante, pues se integran contenidos 
 
 * [S. Russell y P. Norvig (2021). *Artificial Intelligence: A Modern Approach*.](http://library.lol/main/9B28FC2A4A9B21237063BC7E6B42DEFD){:target="_blank"}
 
+
 * [W. Ertel (2017). *Introduction to Artificial Intelligence*.](http://library.lol/main/3FA154D019C435DA970C2F19999889A8){:target="_blank"}
 
 ### Otras Referencias:
 
-* [Heurísticas y Métodos de Búsqueda.](){:target="_blank"}
+* [El-Ghazali Talbi (2009). *Metaheuristics: From Design to Implementation*. Wiley.](){:target="_blank"}
 
-* [Redes Bayesianas.](){:target="_blank"}
+* [S. Luke (2013). *Essential of Metaheuristics*.](){:target="_blank"}
+    
+* [A. E. Eiben, J. E. Smith (2003). *Introduction to Evolutionary Computing*. Springer.](){:target="_blank"}
 
-* [Muestreo de Gibbs.](){:target="_blank"}
+* [T. Bäck (1996). *Evolutionary Algorithms in Theory and Practice: Evolution Strategies, Evolutionary Programming,
+Genetic Algorithms*. Oxford University Press.](){:target="_blank"}
 
-* [Hidden Markov Models.](){:target="_blank"}
+* [M. Mitchell (1999). *An Introduction to Genetic Algorithms*. MIT Press.](){:target="_blank"}
 
-* [Optimización Combinatoria: GA, DE.](){:target="_blank"}
+* [C. Bishop (2000). *Pattern Recognition and Machine Learning*. Springer.](){:target="_blank"}
 
-* [Machine Learning.](){:target="_blank"}
+* [T. Hastie, R. Tibshirani, J. Friedman (2013). *The Elements of Statistical Learning*. Springer.](){:target="_blank"}
+    
+* [Daphne Koller, Nir Friedman (2012). *Probabilistic Graphical Models*. MIT Press.](){:target="_blank"}
 
-* [Deep Learning.](){:target="_blank"}
+* [K. Murphy (2012). *Machine Learning: a Probabilistic Perspective*. MIT Press.](){:target="_blank"}
 
-* [CV.](){:target="_blank"}
 
-* [NLP.](){:target="_blank"}
-
-* [Robótica??](){:target="_blank"}
-
-More references will be added soon.
-
+Enlaces a las referencias serán agregadas en breve.
 ---
