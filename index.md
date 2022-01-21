@@ -26,9 +26,10 @@ El curso requiere madurez por parte del estudiante, pues se integran contenidos 
 # Material del curso
 <div id='id-material'/>
 
-  **No.**  | **Fecha**    | **Tópicos**                                                                    | **Actividades**
+  **No.**  | **Fecha**    | **Tópicos**                                                                    | **Recursos**
   -------- | ------------ | ------------------------------------------------------------------------------ |  -------------------------------------
-  01       | 13.01.2022   | Introducción <br/> 
+  01       | 13.01.2022   | Introducción <br/>                                                             |
+  
   
   
 # Referencias
