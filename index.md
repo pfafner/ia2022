@@ -30,7 +30,7 @@ El curso requiere madurez por parte del estudiante, pues se integran contenidos 
   -------- | ------------ | ------------------------------------------------------------------------------ |  -------------------------------------
   01       | 13.01.2022   | Introducción. Historia de las redes neuronales. <br/>                          | 
   02       | 18.01.2022   | Historia de la IA. Estado del arte actual. <br/>                               | Russell y Norving, Capítulo 1.
-  03       | 20.01.2022   | Agentes racionales. Clasificación de ambientes. <br/>                          |
+  03       | 20.01.2022   | Agentes racionales. Clasificación de ambientes. <br/>                          | Russell y Norving, Capítulo 2.
  
   
   
