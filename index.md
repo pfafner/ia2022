@@ -29,8 +29,8 @@ El curso requiere madurez por parte del estudiante, pues se integran contenidos 
   **No.**  | **Fecha**    | **Tópicos**                                                                    | **Recursos**
   -------- | ------------ | ------------------------------------------------------------------------------ |  -------------------------------------
   01       | 13.01.2022   | Introducción <br/>                                                             |
-  01       | 13.01.2022   | Introducción <br/>                                                             |
-  01       | 13.01.2022   | Introducción <br/>                                                             |
+  02       | 18.01.2022   | Introducción <br/>                                                             |
+  03       | 20.01.2022   | Introducción <br/>                                                             |
  
   
   
