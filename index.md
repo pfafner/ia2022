@@ -28,8 +28,8 @@ El curso requiere madurez por parte del estudiante, pues se integran contenidos 
 
   **No.**  | **Fecha**    | **Tópicos**                                                                    | **Recursos**
   -------- | ------------ | ------------------------------------------------------------------------------ |  -------------------------------------
-  01       | 13.01.2022   | Introducción <br/>                                                             |
-  02       | 18.01.2022   | Introducción <br/>                                                             |
+  01       | 13.01.2022   | Introducción. Historia de las redes neuronales. <br/>                          |
+  02       | 18.01.2022   | Historia de la IA. Estado del arte actual. <br/>                               |
   03       | 20.01.2022   | Introducción <br/>                                                             |
  
   
@@ -40,7 +40,6 @@ El curso requiere madurez por parte del estudiante, pues se integran contenidos 
 ### Textos:
 
 * [S. Russell y P. Norvig (2021). *Artificial Intelligence: A Modern Approach*.](http://library.lol/main/9B28FC2A4A9B21237063BC7E6B42DEFD){:target="_blank"}
-
 
 * [W. Ertel (2017). *Introduction to Artificial Intelligence*.](http://library.lol/main/3FA154D019C435DA970C2F19999889A8){:target="_blank"}
 
