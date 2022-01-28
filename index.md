@@ -1,5 +1,3 @@
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Warning_icon.svg/420px-Warning_icon.svg.png" width="30"/> *Site on Construction!*
-
 # Inteligencia Artificial 2022
 
 Inteligencia Artificial es un término que se escucha ampliamente hoy en día. Sin embargo, es un área del conocimiento que ya tiene varias décadas. Este es un curso introductorio  a la inteligencia artificial, la cual es un área donde se mezclan muchas disciplinas: lógica, programación, matemática, estadística y probabilidad, algoritmos, robótica. Al inicio del curso se hace una revisión histórica de las diferentes áreas y campos de aplicación de la inteligencia artificial, para luego entrar en los temas de lógica proposicional y el sistemas de estados, y el desarrollo de modelos basados en reglas y sistemas expertos. Se hace una revisión de algoritmos de búsqueda como BFS, DFS, y *backtracking*, entre otros, así como el desarrollo de heurísticas y algunos métodos de optimización combinatoria: algoritmos genéticos, evolución diferencial. Luego, combinamos estos conocimientos con el área de probabilidad, para estimar incertidumbre en los modelos. Desarrollaremos métodos de redes bayesianas, y modelos ocultos de Markov. Seguidamente, haremos una introducción al aprendizaje automático, en donde desarrollamos algunos modelos de agrupamiento de datos, clasificación y estimación predictiva. Finalmente, el curso termina con temas de actualidad, como el aprendizaje profundo, en donde implementaremos redes neuronales, principalmente aplicadas a dos campos importantes: visión computacional, y procesamiento del lenguaje, para finalizar con algunos temas de aprendizaje por refuerzo.
@@ -31,6 +29,7 @@ El curso requiere madurez por parte del estudiante, pues se integran contenidos 
   01       | 13.01.2022   | Introducción. Historia de las redes neuronales. <br/>                          | 
   02       | 18.01.2022   | Historia de la IA. Estado del arte actual. <br/>                               | Russell y Norvig, Capítulo 1.
   03       | 20.01.2022   | Agentes racionales. Clasificación de ambientes. <br/>                          | Russell y Norvig, Capítulo 2.
+  04       | 27.01.2022   | Métodos de Búsqueda. Representación. <br/>                                     | Russell y Norvig, secciones 3.1 y 3.2.
  
   
   
