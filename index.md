@@ -29,7 +29,7 @@ El curso requiere madurez por parte del estudiante, pues se integran contenidos 
   01       | 13.01.2022   | Introducción. Historia de las redes neuronales. <br/>                          | 
   02       | 18.01.2022   | Historia de la IA. Estado del arte actual. <br/>                               | Russell y Norvig, Capítulo 1.
   03       | 20.01.2022   | Agentes racionales. Clasificación de ambientes. <br/>                          | Russell y Norvig, Capítulo 2.
-  04       | 27.01.2022   | Métodos de Búsqueda. Representación. <br/>                                     | Russell y Norvig, secciones 3.1 y 3.2.
+  04       | 27.01.2022   | Métodos de Búsqueda. Representación. <br/> [Aula 04](aulas/Aula04.pdf){:target="_blank"} | Russell y Norvig, secciones 3.1 y 3.2.
  
   
   
