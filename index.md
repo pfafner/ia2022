@@ -31,7 +31,8 @@ El curso requiere madurez por parte del estudiante, pues se integran contenidos 
   03       | 20.01.2022   | Agentes racionales. Clasificación de ambientes. <br/> [Aula 03](aulas/Aula03.pdf){:target="_blank"} | Russell y Norvig, Capítulo 2.
   04       | 27.01.2022   | Métodos de Búsqueda. Representación. <br/> [Aula 04](aulas/Aula04.pdf){:target="_blank"} | Russell y Norvig, secciones 3.1 y 3.2.
   L1       | 29.01.2022   |                                                                                | 
- 
+  .        |              |                                                                     | 
+
   
   
 # Referencias
