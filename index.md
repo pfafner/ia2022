@@ -31,7 +31,7 @@ El curso requiere madurez por parte del estudiante, pues se integran contenidos 
   03       | 20.01.2022   | Agentes racionales. Clasificación de ambientes. <br/> [Aula 03](aulas/Aula03.pdf){:target="_blank"} | Russell y Norvig, Capítulo 2.
   04       | 27.01.2022   | Métodos de Búsqueda. Representación. <br/> [Aula 04](aulas/Aula04.pdf){:target="_blank"} | Russell y Norvig, secciones 3.1 y 3.2.
   T1       | 29.01.2022   |                                                                                | **[Tarea 1](tareas/tarea01.pdf){:target="_blank"}** <br/> **Fecha de entrega: Viernes 04 de febrero.**
-
+  05       | 01.02.2022   | Estrategias de Búsqueda: BFS, DFS, Greedy, Backtracking. <br/>  | Simulación de Algoritmos *shortest path* <br/> [visualgo.net/en/sssp](visualgo.net/en/sssp){:target="_blank"}
   
   
 # Referencias
