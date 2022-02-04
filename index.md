@@ -32,6 +32,7 @@ El curso requiere madurez por parte del estudiante, pues se integran contenidos 
   04       | 27.01.2022   | Métodos de Búsqueda. Representación. <br/> [Aula 04](aulas/Aula04.pdf){:target="_blank"} | Russell y Norvig, secciones 3.1 y 3.2.
   T1       | 29.01.2022   |                                                                                | **[Tarea 1](tareas/tarea01.pdf){:target="_blank"}** <br/> **Fecha de entrega: Viernes 04 de febrero.**
   05       | 01.02.2022   | Estrategias de Búsqueda: BFS, DFS, Greedy, Backtracking. <br/> [Aula 05](aulas/Aula05.pdf){:target="_blank"} | Simulación de Algoritmos *shortest path* <br/> [visualgo.net/en/sssp](https://visualgo.net/en/sssp){:target="_blank"}
+  06       | 03.02.2022   | Algoritmos ruta más corta: Dijkstra, Bellman-Ford, Floyd-Warshall. <br/> Algoritmos árbol de expansión mínima: Prim-Jarník, Kruskal. | Simulación de Algoritmos *shortest path* <br/> [visualgo.net/en/sssp](https://visualgo.net/en/sssp){:target="_blank"}
   
   
 # Referencias
