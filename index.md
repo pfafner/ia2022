@@ -29,7 +29,7 @@ El curso requiere madurez por parte del estudiante, pues se integran contenidos 
   01       | 13.01.2022   | Introducción. Historia de las redes neuronales. <br/> [Aula 01](aulas/Aula01.pdf){:target="_blank"} | 
   02       | 18.01.2022   | Historia de la IA. Estado del arte actual. <br/> [Aula 02](aulas/Aula02.pdf){:target="_blank"} | Russell y Norvig, Capítulo 1.
   03       | 20.01.2022   | Agentes racionales. Clasificación de ambientes. <br/> [Aula 03](aulas/Aula03.pdf){:target="_blank"} | Russell y Norvig, Capítulo 2.
-  04       | 27.01.2022   | Métodos de Búsqueda. Representación. <br/> [Aula 04](aulas/Aula04.pdf){:target="_blank"} | Russell y Norvig, secciones 3.1 y 3.2.
+  04       | 27.01.2022   | Métodos de Búsqueda. Representación. <br/> [ Aula 04](aulas/Aula04.pdf){:target="_blank"} [Aula 04 notas](aulas/Aula04_notas.pdf){:target="_blank"} | Russell y Norvig, secciones 3.1 y 3.2.
   T1       | 29.01.2022   |                                                                                | **[Tarea 1](tareas/tarea01.pdf){:target="_blank"}** <br/> **Fecha de entrega: Viernes 04 de febrero.**
   05       | 01.02.2022   | Estrategias de Búsqueda: BFS, DFS, Greedy, Backtracking. <br/> [Aula 05](aulas/Aula05.pdf){:target="_blank"} | Simulación de Algoritmos *shortest path* <br/> [visualgo.net/en/sssp](https://visualgo.net/en/sssp){:target="_blank"}
   06       | 03.02.2022   | Algoritmos ruta más corta: Dijkstra, Bellman-Ford, Floyd-Warshall. <br/> Algoritmos árbol de expansión mínima: Prim-Jarník, Kruskal. <br/> [Aula 06](aulas/Aula06.pdf){:target="_blank"} | Simulación de Algoritmos *shortest path* <br/> [cmps-people.ok.ubc.ca/ylucet/DS/Dijkstra.html](https://cmps-people.ok.ubc.ca/ylucet/DS/Dijkstra.html){:target="_blank"}
