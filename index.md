@@ -35,6 +35,9 @@ El curso requiere madurez por parte del estudiante, pues se integran contenidos 
   06       | 03.02.2022   | Algoritmos: ruta más corta, árbol de expansión mínima. <br/> [Aula 06](aulas/Aula06.pdf){:target="_blank"} | Simulación de Algoritmos *shortest path* <br/> [cmps-people.ok.ubc.ca/ylucet/DS/Dijkstra.html](https://cmps-people.ok.ubc.ca/ylucet/DS/Dijkstra.html){:target="_blank"}
   07       | 08.02.2022   | Heurísticas. Algoritmo A*. <br/> [Aula 07](aulas/Aula07.pdf){:target="_blank"} | *Pathfinding simulation*: A* y otros. <br/> [https://qiao.github.io/PathFinding.js/visual/](https://qiao.github.io/PathFinding.js/visual/){:target="_blank"}
   T2       | 09.02.2022   |                                                                                | **[Tarea 2](tareas/tarea02.pdf){:target="_blank"}** <br/> **Fecha de entrega: Jueves 24 de febrero.**
+  08       | 10.02.2022   | Comentarios sobre heurísticas y A*. <br/>                                      | 
+  09       | 15.02.2022   | Búsqueda en espacios continuos.     <br/>                                      | 
+  
   
 # Referencias
 <div id='id-ref'/>
