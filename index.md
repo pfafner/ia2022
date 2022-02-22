@@ -37,7 +37,7 @@ El curso requiere madurez por parte del estudiante, pues se integran contenidos 
   T2       | 09.02.2022   |                                                                                | **[Tarea 2](tareas/tarea02.pdf){:target="_blank"}** <br/> **Fecha de entrega: Jueves 24 de febrero.**
   08       | 10.02.2022   | Comentarios sobre heurísticas y A*. <br/>                                      | 
   09       | 15.02.2022   | Búsqueda en espacios continuos.  <br/> [Aula 09](aulas/Aula09.pdf){:target="_blank"} | [Aula 09 notas](aulas/Aula09_notas.pdf){:target="_blank"} 
-  10       | 17.02.2022   | Descenso gradiente. *Steepest Descent*. Ejemplos.  <br/> [Aula 09](aulas/Aula09.pdf){:target="_blank"} | [Aula 09 notas](aulas/Aula09_notas.pdf){:target="_blank"} 
+  10       | 17.02.2022   | Descenso gradiente. *Steepest Descent*. Ejemplos.  <br/> [Aula 10](aulas/Aula10.pdf){:target="_blank"} | [Aula 10 notas](aulas/Aula10_notas.pdf){:target="_blank"} 
   
   
 # Referencias
