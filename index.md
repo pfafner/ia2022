@@ -36,7 +36,7 @@ El curso requiere madurez por parte del estudiante, pues se integran contenidos 
   07       | 08.02.2022   | Heurísticas. Algoritmo A*. <br/> [Aula 07](aulas/Aula07.pdf){:target="_blank"} | *Pathfinding simulation*: A* y otros. <br/> [https://qiao.github.io/PathFinding.js/visual/](https://qiao.github.io/PathFinding.js/visual/){:target="_blank"}
   T2       | 09.02.2022   |                                                                                | **[Tarea 2](tareas/tarea02.pdf){:target="_blank"}** <br/> **Fecha de entrega: Jueves 24 de febrero.**
   08       | 10.02.2022   | Comentarios sobre heurísticas y A*. <br/>                                      | 
-  09       | 15.02.2022   | Búsqueda en espacios continuos.     <br/>                                      | 
+  09       | 15.02.2022   | Búsqueda en espacios continuos.  <br/> [Aula 07](aulas/Aula09.pdf){:target="_blank"} [Aula 07](aulas/Aula09.pdf){:target="_blank"} | 
   10       | 17.02.2022   | Descenso gradiente. *Steepest Descent*. Ejemplos.  <br/>                       | 
   
   
