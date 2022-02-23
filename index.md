@@ -38,7 +38,7 @@ El curso requiere madurez por parte del estudiante, pues se integran contenidos 
   08       | 10.02.2022   | Comentarios sobre heurísticas y A*. <br/>                                      | 
   09       | 15.02.2022   | Búsqueda en espacios continuos.  <br/> [Aula 09](aulas/Aula09.pdf){:target="_blank"} | [Aula 09 notas](aulas/Aula09_notas.pdf){:target="_blank"} 
   10       | 17.02.2022   | Descenso gradiente. *Steepest Descent*. Ejemplos.  <br/> [Aula 10](aulas/Aula10.pdf){:target="_blank"} | [Aula 10 notas](aulas/Aula10_notas.pdf){:target="_blank"} 
-  
+  11       | 22.02.2022   | Otros metodos de descenso. Descenso gradiente estocástico. |                         
   
 # Referencias
 <div id='id-ref'/>
