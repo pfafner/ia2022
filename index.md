@@ -40,6 +40,8 @@ El curso requiere madurez por parte del estudiante, pues se integran contenidos 
   10       | 17.02.2022   | Descenso gradiente. *Steepest Descent*. Ejemplos.  <br/> [Aula 10](aulas/Aula10.pdf){:target="_blank"} | [Aula 10 notas](aulas/Aula10_notas.pdf){:target="_blank"} 
   11       | 22.02.2022   | Otros metodos de descenso. Descenso gradiente estocástico.  |                         
   12       | 24.02.2022   | Optimización libre de derivadas. Método de Nelder-Mead.     |                        
+  13       | 01.03.2022   | Enfriamiento simulado.     |                        
+  T3       | 01.03.2022   |                                                                                | **[Tarea 3](tareas/tarea03.pdf){:target="_blank"}** <br/> **Fecha de entrega: Martes 15 de marzo.**
   
 # Referencias
 <div id='id-ref'/>
