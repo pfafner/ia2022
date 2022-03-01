@@ -39,8 +39,8 @@ El curso requiere madurez por parte del estudiante, pues se integran contenidos 
   09       | 15.02.2022   | Búsqueda en espacios continuos.  <br/> [Aula 09](aulas/Aula09.pdf){:target="_blank"} | [Aula 09 notas](aulas/Aula09_notas.pdf){:target="_blank"} 
   10       | 17.02.2022   | Descenso gradiente. *Steepest Descent*. Ejemplos.  <br/> [Aula 10](aulas/Aula10.pdf){:target="_blank"} | [Aula 10 notas](aulas/Aula10_notas.pdf){:target="_blank"} 
   11       | 22.02.2022   | Otros metodos de descenso. Descenso gradiente estocástico.  |                         
-  12       | 24.02.2022   | Optimización libre de derivadas. Método de Nelder-Mead. <br/> [Aula 10](aulas/Aula10.pdf){:target="_blank"}  |                        
-  13       | 01.03.2022   | Enfriamiento simulado.     |                        
+  12       | 24.02.2022   | Optimización libre de derivadas. Método de Nelder-Mead. <br/> [Aula 12](aulas/Aula12.pdf){:target="_blank"}  |                        
+  13       | 01.03.2022   | Enfriamiento simulado. <br/> [Aula 13](aulas/Aula13.pdf){:target="_blank"}  |                        
   T3       | 01.03.2022   |                                                                                | **[Tarea 3](tareas/tarea03.pdf){:target="_blank"}** <br/> **Fecha de entrega: Martes 15 de marzo.**
   
 # Referencias
