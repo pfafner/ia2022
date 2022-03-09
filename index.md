@@ -53,8 +53,8 @@ El curso requiere madurez por parte del estudiante, pues se integran contenidos 
   -------- | ------------ | --------------------------------------------------------------- | -----------------------------
   .        | 08.03.2022   | [Proyecto Snake](proyecto/proyecto.pdf){:target="_blank"}       | 
   01       | 07.04.2022   | Primera Entrega.                                                | Entrega de ambiente visual, ideas IA.
-  02       | 05.05.2022   | Segunda entrega.                                                | Evaluación primer algoritmos IA (A*, GA, BN).
-  03a      | 31.05.2022   | Avances Tercera Entrega.                                        | Evaluación segundo algoritmos IA (MH, NN, RL).
+  02       | 05.05.2022   | Segunda entrega.                                                | Evaluación primer algoritmo IA (A*, GA, BN).
+  03a      | 31.05.2022   | Avances Tercera Entrega.                                        | Evaluación segundo algoritmo IA (MH, NN, RL).
   03b      | 02.06.2022   | Tercera Entrega + Torneo.                                       | Torneo Presencial.
 
   
