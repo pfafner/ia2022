@@ -49,9 +49,13 @@ El curso requiere madurez por parte del estudiante, pues se integran contenidos 
 # Proyecto de Curso
 <div id='id-proj'/>
 
-  **No.**  | **Fecha**    | **Tópicos**                                                                    
-  -------- | ------------ | ------------------------------------------------------------------------------ 
-  01       | 08.03.2022   | [Proyecto Snake](proyecto/proyecto.pdf){:target="_blank"}                      
+  **No.**  | **Fecha**    | **Tópicos**                                                     |
+  -------- | ------------ | --------------------------------------------------------------- |
+  .        | 08.03.2022   | [Proyecto Snake](proyecto/proyecto.pdf){:target="_blank"}       |
+  01       | 07.04.2022   | Primera Entrega.                                                |
+  02       | 05.05.2022   | Segunda entrega.                                                |
+  03a      | 31.05.2022   | Avances Tercera Entrega.                                        |
+  03b      | 02.06.2022   | Tercera Entrega + Torneo.                                       |
 
   
 # Referencias
