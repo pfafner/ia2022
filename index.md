@@ -43,7 +43,15 @@ El curso requiere madurez por parte del estudiante, pues se integran contenidos 
   13       | 01.03.2022   | Enfriamiento simulado. <br/> [Aula 13](aulas/Aula13.pdf){:target="_blank"} [Aula 13 notas](aulas/Aula13_notas.pdf){:target="_blank"} | [TSP con *simulated annealing*](https://www.youtube.com/watch?v=NPE3zncXA5s){:target="_blank"}
   T3       | 01.03.2022   |                                                                                | **[Tarea 3](tareas/tarea03.pdf){:target="_blank"}** <br/> **Fecha de entrega: Martes 15 de marzo.**
   14       | 03.03.2022   | Distribución normal multivariada. ¿Cómo generar muestras aleatorias de una normal? <br/> [Aula 14 notas](aulas/Aula14_notas.pdf){:target="_blank"} | [multivariate_normal.ipynb](code/multivariate_normal.ipynb){:target="_blank"}
-  
+
+
+# Proyecto de Curso
+<div id='id-proj'/>
+
+  **No.**  | **Fecha**    | **Tópicos**                                                                    
+  -------- | ------------ | ------------------------------------------------------------------------------ 
+  01       | 08.03.2022   | [Proyecto Snake](proyecto/proyecto.pdf){:target="_blank"}                      
+
   
 # Referencias
 <div id='id-ref'/>
