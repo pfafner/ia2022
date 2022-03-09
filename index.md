@@ -43,7 +43,7 @@ El curso requiere madurez por parte del estudiante, pues se integran contenidos 
   13       | 01.03.2022   | Enfriamiento simulado. <br/> [Aula 13](aulas/Aula13.pdf){:target="_blank"} [Aula 13 notas](aulas/Aula13_notas.pdf){:target="_blank"} | [TSP con *simulated annealing*](https://www.youtube.com/watch?v=NPE3zncXA5s){:target="_blank"}
   T3       | 01.03.2022   |                                                                                | **[Tarea 3](tareas/tarea03.pdf){:target="_blank"}** <br/> **Fecha de entrega: Martes 15 de marzo.**
   14       | 03.03.2022   | Distribución normal multivariada. ¿Cómo generar muestras aleatorias de una normal? <br/> [Aula 14 notas](aulas/Aula14_notas.pdf){:target="_blank"} | [multivariate_normal.ipynb](code/multivariate_normal.ipynb){:target="_blank"}
-  15       | 08.03.2022   | Algoritmos de Estimación de Distribución. UMDA. <br/> [Aula 15](aulas/Aula15.pdf){:target="_blank"} [Aula 15 notas](aulas/Aula15_notas.pdf){:target="_blank"} | 
+  15       | 08.03.2022   | Algoritmos de Estimación de Distribución. UMDA. <br/> [Aula 15](aulas/Aula15.pdf){:target="_blank"} | [Aula 15 notas](aulas/Aula15_notas.pdf){:target="_blank"} 
 
 
 # Proyecto de Curso
@@ -52,9 +52,9 @@ El curso requiere madurez por parte del estudiante, pues se integran contenidos 
   **No.**  | **Fecha**    | **Tópicos**                                                     | **Observaciones**
   -------- | ------------ | --------------------------------------------------------------- | -----------------------------
   .        | 08.03.2022   | [Proyecto Snake](proyecto/proyecto.pdf){:target="_blank"}       | 
-  01       | 07.04.2022   | Primera Entrega.                                                | 
-  02       | 05.05.2022   | Segunda entrega.                                                |
-  03a      | 31.05.2022   | Avances Tercera Entrega.                                        | 
+  01       | 07.04.2022   | Primera Entrega.                                                | Entrega de ambiente visual, ideas IA.
+  02       | 05.05.2022   | Segunda entrega.                                                | Evaluación primer algoritmos IA (A*, GA, BN).
+  03a      | 31.05.2022   | Avances Tercera Entrega.                                        | Evaluación segundo algoritmos IA (MH, NN, RL).
   03b      | 02.06.2022   | Tercera Entrega + Torneo.                                       | Torneo Presencial.
 
   
