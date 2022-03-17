@@ -44,7 +44,7 @@ El curso requiere madurez por parte del estudiante, pues se integran contenidos 
   T3       | 01.03.2022   |                                                                                | **[Tarea 3](tareas/tarea03.pdf){:target="_blank"}** <br/> **Fecha de entrega: Martes 15 de marzo.**
   14       | 03.03.2022   | Distribución normal multivariada. ¿Cómo generar muestras aleatorias de una normal? <br/> [Aula 14 notas](aulas/Aula14_notas.pdf){:target="_blank"} | [multivariate_normal.ipynb](code/multivariate_normal.ipynb){:target="_blank"}
   15       | 08.03.2022   | Algoritmos de Estimación de Distribución. UMDA. <br/> [Aula 15](aulas/Aula15.pdf){:target="_blank"} | [Aula 15 notas](aulas/Aula15_notas.pdf){:target="_blank"} 
-  16       | 15.03.2022   | Algoritmos genéticos. <br/>                 |  (Ejemplos de operadores)[https://www.tutorialspoint.com/genetic_algorithms/genetic_algorithms_quick_guide.htm]{:target="_blank"}
+  16       | 15.03.2022   | Algoritmos genéticos. <br/> [Aula 16](aulas/Aula16.pdf){:target="_blank"}      |  (Ejemplos de operadores)[https://www.tutorialspoint.com/genetic_algorithms/genetic_algorithms_quick_guide.htm]{:target="_blank"}
 
 
 # Proyecto de Curso
