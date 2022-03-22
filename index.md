@@ -45,7 +45,7 @@ El curso requiere madurez por parte del estudiante, pues se integran contenidos 
   14       | 03.03.2022   | Distribución normal multivariada. ¿Cómo generar muestras aleatorias de una normal? <br/> [Aula 14 notas](aulas/Aula14_notas.pdf){:target="_blank"} | [multivariate_normal.ipynb](code/multivariate_normal.ipynb){:target="_blank"}
   15       | 08.03.2022   | Algoritmos de Estimación de Distribución. UMDA. <br/> [Aula 15](aulas/Aula15.pdf){:target="_blank"} | [Aula 15 notas](aulas/Aula15_notas.pdf){:target="_blank"} 
   16       | 15.03.2022   | Algoritmos genéticos. <br/> [Aula 16](aulas/Aula16.pdf){:target="_blank"} [Aula 16 notas](aulas/Aula16_notas.pdf){:target="_blank"}      |  (Ejemplos de operadores)[https://www.tutorialspoint.com/genetic_algorithms/genetic_algorithms_quick_guide.htm]{:target="_blank"}
-  17       | 17.03.2022   | Algoritmos genéticos II. <br/> [Aula 16](aulas/Aula16.pdf){:target="_blank"} [Aula 16 notas](aulas/Aula16_notas.pdf){:target="_blank"}      |  (Ejemplos de operadores)[https://www.tutorialspoint.com/genetic_algorithms/genetic_algorithms_quick_guide.htm]{:target="_blank"}
+  17       | 17.03.2022   | Algoritmos genéticos II. <br/> [Aula 17](aulas/Aula17.pdf){:target="_blank"} [Operadores cruce permutaciones](https://www.inf.tu-dresden.de/content/institutes/ki/cl/study/summer14/pssai/slides/GA_for_TSP.pdf){:target="_blank"}      |  (Ejemplos de operadores)[https://www.tutorialspoint.com/genetic_algorithms/genetic_algorithms_quick_guide.htm]{:target="_blank"}
 
 
 # Proyecto de Curso
