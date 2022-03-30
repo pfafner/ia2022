@@ -48,6 +48,7 @@ El curso requiere madurez por parte del estudiante, pues se integran contenidos 
   17       | 17.03.2022   | Algoritmos genéticos II. <br/> [Aula 17](aulas/Aula17.pdf){:target="_blank"} | Operadores de cruce para permutaciones [GA_for_TSP.pdf](https://www.inf.tu-dresden.de/content/institutes/ki/cl/study/summer14/pssai/slides/GA_for_TSP.pdf){:target="_blank"}
   18       | 22.03.2022   | Ejercicio con algoritmos genéticos. <br/> | Para el problema del TSP: [cities_1.csv](tareas/cities_1.csv){:target="_blank"} [cities_2.csv](tareas/cities_2.csv){:target="_blank"} <br/> Para el problema del Sudoku: [sudoku_puzzle.jpg](tareas/sudoku_puzzle.jpg){:target="_blank"} 
   19       | 24.03.2022   | Ejemplo: Problema de asignación de recursos. <br/> [Aula 19 notas](aulas/Aula19_notas.pdf){:target="_blank"} |  
+  20       | 29.03.2022   | Estimación empírica de distribuciones. <br/> [Aula 20](aulas/Aula20.pdf){:target="_blank"} |  
 
 
 # Proyecto de Curso
