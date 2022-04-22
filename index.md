@@ -51,7 +51,7 @@ El curso requiere madurez por parte del estudiante, pues se integran contenidos 
   20       | 29.03.2022   | Estimación empírica de distribuciones. <br/> [Aula 20](aulas/Aula20.pdf){:target="_blank"} |  [1D-kernel-density.ipynb](code/1D-kernel-density.ipynb){:target="_blank"} <br/> [2D-kernel-density.ipynb](code/2D-kernel-density.ipynb){:target="_blank"}
   21       | 05.04.2022   | Agrupamiento y CLasificación. K-medias. <br/> [Aula 21](aulas/Aula21.pdf){:target="_blank"} |  [k-means.ipynb](code/k-means.ipynb){:target="_blank"} <br/> [horse.jpg](code/horse.jpg){:target="_blank"} [tree.jpg](code/tree.jpg){:target="_blank"}
   22       | 07.04.2022   | Presentación de avances del proyecto. <br/>                                                |  
-  
+  23       | 21.04.2022   | Clasificadores lineales. El clasificador logístico.
   
 # Proyecto de Curso
 <div id='id-proj'/>
