@@ -53,7 +53,8 @@ El curso requiere madurez por parte del estudiante, pues se integran contenidos 
   22       | 07.04.2022   | Presentación de avances del proyecto. <br/>                                                |  
   23       | 21.04.2022   | Clasificadores lineales. El clasificador logístico. <br/> [Aula 22](aulas/Aula22_notas.pdf){:target="_blank"} |  
   24       | 26.04.2022   | Perceptrón. Introducción a redes neuronales. <br/>  |  
-  25       | 28.04.2022   | Redes neuronales.  | [Tensorflow installation guide](tf/Anaconda+Tensorflow+Jupyter_installation_guide.pdf){:target="_blank"}
+  25       | 28.04.2022   | Redes neuronales.  | [Tensorflow installation guide](tf/Anaconda+Tensorflow+Jupyter_installation_guide.pdf){:target="_blank"} <br/> [plotmatrix.py](tf/plotmatrix.py){:target="_blank"} [test.ipynb](tf/test.ipynb){:target="_blank"}
+  
 
 # Proyecto de Curso
 <div id='id-proj'/>
