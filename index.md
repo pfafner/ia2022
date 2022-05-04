@@ -54,6 +54,7 @@ El curso requiere madurez por parte del estudiante, pues se integran contenidos 
   23       | 21.04.2022   | Clasificadores lineales. El clasificador logístico. <br/> [Aula 22](aulas/Aula22.pdf){:target="_blank"} | [Aula 22 notas](aulas/Aula22_notas.pdf){:target="_blank"} <br/> [logistic.ipynb](code/logistic.ipynb){:target="_blank"} 
   24       | 26.04.2022   | Perceptrón. Introducción a redes neuronales. <br/> [Aula 23](aulas/Aula23_notas.pdf){:target="_blank"} | [Tensorflow Playground](https://playground.tensorflow.org/){:target="_blank"} <br/> [Karpathy Neural Network Demo](https://cs.stanford.edu/people/karpathy/convnetjs/demo/classify2d.html){:target="_blank"}
   25       | 28.04.2022   | Redes neuronales. <br/> [Aula 24](aulas/Aula24.pdf){:target="_blank"} | [Tensorflow installation guide](tf/Anaconda+Tensorflow+Jupyter_installation_guide.pdf){:target="_blank"} <br/> [plotmatrix.py](tf/plotmatrix.py){:target="_blank"} [test.ipynb](tf/test.ipynb){:target="_blank"}
+  26       | 03.05.2022   | Redes neuronales: hiper-parámetros, entrenamiento y validación. <br/> Pre-procesado de datos. [Aula 25](aulas/Aula25.pdf){:target="_blank"} | 
   
 
 # Proyecto de Curso
