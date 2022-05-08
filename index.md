@@ -55,6 +55,7 @@ El curso requiere madurez por parte del estudiante, pues se integran contenidos 
   24       | 26.04.2022   | Perceptrón. Introducción a redes neuronales. <br/> [Aula 23](aulas/Aula23_notas.pdf){:target="_blank"} | [Tensorflow Playground](https://playground.tensorflow.org/){:target="_blank"} <br/> [Karpathy Neural Network Demo](https://cs.stanford.edu/people/karpathy/convnetjs/demo/classify2d.html){:target="_blank"}
   25       | 28.04.2022   | Redes neuronales. <br/> [Aula 24](aulas/Aula24.pdf){:target="_blank"} | [Tensorflow installation guide](tf/Anaconda+Tensorflow+Jupyter_installation_guide.pdf){:target="_blank"} <br/> [plotmatrix.py](tf/plotmatrix.py){:target="_blank"} [test.ipynb](tf/test.ipynb){:target="_blank"}
   26       | 03.05.2022   | Redes neuronales: hiper-parámetros, entrenamiento y validación. <br/> Pre-procesado de datos. [Aula 25](aulas/Aula25.pdf){:target="_blank"} | [Blog de S. Ruder sobre algoritmos estocásticos](https://ruder.io/optimizing-gradient-descent/){:target="_blank"} 
+  27       | 05.05.2022   | Presentación de avances del proyecto. <br/>                                                |  
   
 
 # Proyecto de Curso
