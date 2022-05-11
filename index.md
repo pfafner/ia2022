@@ -57,7 +57,7 @@ El curso requiere madurez por parte del estudiante, pues se integran contenidos 
   26       | 03.05.2022   | Redes neuronales: hiper-parámetros, entrenamiento y validación. <br/> Pre-procesado de datos. [Aula 25](aulas/Aula25.pdf){:target="_blank"} | [Blog de S. Ruder sobre algoritmos estocásticos](https://ruder.io/optimizing-gradient-descent/){:target="_blank"} 
   27       | 05.05.2022   | Presentación de avances del proyecto. <br/>                                                |  
   28       | 10.05.2022   | Entrenamiento de redes neuronales en Keras. <br/> [Aula 26](aulas/Aula26.pdf){:target="_blank"} | [Keras_Day1.zip](code/Keras_Day1.zip){:target="_blank"} 
-  T4       | 10.05.2022   |                                                                                | **Tarea 4** <br/> **Fecha de entrega: Martes 17 de mayo.**
+  T4       | 10.05.2022   | No se les olvide entregar la tarea de algoritmos genéticos.  | **Tarea 4** <br/> **Fecha de entrega: Martes 17 de mayo.**
   
 
 # Proyecto de Curso
