@@ -58,7 +58,8 @@ El curso requiere madurez por parte del estudiante, pues se integran contenidos 
   27       | 05.05.2022   | Presentación de avances del proyecto. <br/>                                                |  
   28       | 10.05.2022   | Entrenamiento de redes neuronales en Keras. <br/> [Aula 26 notas](aulas/Aula26_notas.pdf){:target="_blank"} | [Keras_Day1.zip](code/Keras_Day1.zip){:target="_blank"} 
   T4       | 10.05.2022   | No se les olvide entregar la tarea de algoritmos genéticos.  | **Tarea 4** <br/> **Fecha de entrega: Martes 17 de mayo.**
-  29       | 10.05.2022   | Entrenamiento de redes neuronales en Keras II. <br/> |    
+  29       | 12.05.2022   | Entrenamiento de redes neuronales en Keras II. <br/> [Aula 27 notas](aulas/Aula27_notas.pdf){:target="_blank"} |     
+  30       | 17.05.2022   | NN. <br/> | 
 
 # Proyecto de Curso
 <div id='id-proj'/>
